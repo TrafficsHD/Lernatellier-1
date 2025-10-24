@@ -2,9 +2,9 @@
 ## 1. Tag
 ### Ziele
 # Lern-Periode 1
-Name: Exemplibus Exemplio
+Name: Melvin Huggler
 
-12.08.2024 bis 29.09.2024
+17.10.2024 bis 16.12.2024
 
 ## Grob-Planung
 ### Noten
