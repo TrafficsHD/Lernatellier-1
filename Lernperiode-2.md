@@ -20,8 +20,8 @@ Am Ende der Lernperiode möchte ich ein fertiges Adventure Game haben.
 ## Planung 24.10.2025
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erste Ideen für den Plot des Spiel sammeln
-- [ ] Ideen für Features und Funktionen des Games sammeln
+- [X] Erste Ideen für den Plot des Spiel sammeln
+- [X] Ideen für Features und Funktionen des Games sammeln
 - [X] Erste Sprites erstellen
 
 (Heute habe ich ein paar coole Spielideen über ChatGPT gesammelt. Dazu habe ich mir ein paar Features für das Game überlegt und wie man diese umsetzen kann. Um ein paar Game Assets habe ich mich auch schon gekümmert auf craftpix.net findet man sehr viele Characters und GUI Sprites.)
